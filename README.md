@@ -1,2 +1,2 @@
-# oibsip_taskno
-Internship 1
+# delta-demo
+This is a Demo for Git & Github class.
